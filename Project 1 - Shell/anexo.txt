@@ -1,0 +1,33 @@
+ESPECIFICAÇÕES ADICIONAIS:
+Dada a grande dificuldade de incluir em comentário a autoria dos blocos de código e uma vez que a distribuição do trabalho foi equitativa pelos dois membros do grupo, optamos por não o fazer. Esta distribuição do trabalho foi feita através de constante revisão do código do parceiro por SVN e constate reunião para discussão e realização do trabalho.  -
+
+- Por uma questão de facilidade e por já estar implementado optamos por por a makefile no directório bin.
+	
+V1
+- totalmente implementado
+
+
+V2 
+- totalmente implementado
+
+
+V3
+- totalmente implementado
+
+
+V4
+- totalmente implementado
+- Ctrl+C (SIGINT) não mata a consola
+- Ctrl+C não mata processo em &
+
+V5
+- totamente implementado
+- optamos por redirecionar o STDERR e STDOUT para um ficheiro (bckgd_redir.txt) para os comandos em background
+
+V6
+- totalmente implementado
+
+Exemplos:
+(+) ls | cat | grep msh
+(-) ls | sort -r (Não percebemos porque)
+

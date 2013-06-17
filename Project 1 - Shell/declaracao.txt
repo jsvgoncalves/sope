@@ -1,0 +1,23 @@
+AUTORES:
+030509107 - André Simões Fernandes
+090509136 - João Sá Vinhas Gonçalves
+
+DECLARAÇÃO: 
+	Declaramos sob compromisso de honra que este
+trabalho nas suas partes constituintes de código (e relatório) é original e da nossa autoria, não correspondendo, 
+portanto, a cópia ou tradução de outros trabalhos já realizados,
+na FEUP ou fora dela.
+	Mais declaramos que todos os documentos ou código que serviram
+de base ao desenvolvimento do trabalho descrito no relatório e
+seus anexos são adequadamente citados e explicitados na
+respectiva secção de referências bibliográficas e que todas as
+eventuais partes transcritas ou utilizadas de outras fontes
+estão devidamente assinaladas, identificadas e evidenciadas.
+
+REFERÊNCIAS E FONTES DE INFORMAÇÃO UTILIZADAS:
+- Materiais de apoio da disciplina de Sistema Operativos.
+- Eventuais pesquisas no google sobre temáticas em dúvida,
+	que não podem ser discriminadas por terem sido
+	esporádicas e não anotadas.
+- MAN :)
+
